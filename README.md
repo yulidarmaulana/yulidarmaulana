@@ -24,14 +24,14 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]()
 
-
 <br/>
+
 
 ### Connect with me:
 
-[<img align="left" alt="yulidarmaulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+<!-- [<img align="left" alt="yulidarmaulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 [<img align="left" alt="yulidarmaulana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="yulidarmaulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
+[<img align="left" alt="yulidarmaulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram] --!>
 
 <!--
 **yulidarmaulana/yulidarmaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
