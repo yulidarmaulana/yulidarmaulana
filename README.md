@@ -26,6 +26,8 @@
 
 <br/>
 
+<br/>
+
 <div align="center">
 	<img src="https://firebasestorage.googleapis.com/v0/b/megumin-wiki.appspot.com/o/tumblr_d08e637baa533d212ec6915f136296c0_4e660d87_500.gif?alt=media&token=4b0e6841-9926-4632-bdb8-fe9533bff14d">
 </div>
