@@ -12,7 +12,7 @@
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fikrisuheri&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=yulidarmaulana&show_icons=true)
 
 ---
 
