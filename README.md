@@ -1,7 +1,5 @@
 ### Hi there, I'm Yulidar Maulana 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/deanufriana?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=deanufriana)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/thxsinsomnia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=yulidarmaulana)
 
 ## a newbie developers !!
@@ -14,7 +12,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="deanufriana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="yulidarmaulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="yulidarmaulana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="yulidarmaulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 <!--
 **yulidarmaulana/yulidarmaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
