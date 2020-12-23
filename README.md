@@ -30,6 +30,7 @@
 
 <div align="center">
 	<img src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif">
+	<img src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif">
 </div>
 
 <!-- [<img align="left" alt="yulidarmaulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
