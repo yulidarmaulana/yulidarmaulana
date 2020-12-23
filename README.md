@@ -27,21 +27,17 @@
 <br/>
 
 <br/>
+
 ---
+
 <div align="center">
 	<img src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif">
 	<img src="https://media.giphy.com/media/8YZirtPwOyXuGnhRBq/giphy.gif">
 </div>
 
-<!-- [<img align="left" alt="yulidarmaulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-[<img align="left" alt="yulidarmaulana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="yulidarmaulana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram] --!>
+<!-- **yulidarmaulana/yulidarmaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
-**yulidarmaulana/yulidarmaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -50,4 +46,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
