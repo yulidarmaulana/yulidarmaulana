@@ -29,9 +29,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 	<img src="https://media.giphy.com/media/uVRmdhTCaWhH2/giphy.gif">
-</div>
+</div> -->
 
 <!-- **yulidarmaulana/yulidarmaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
