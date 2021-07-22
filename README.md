@@ -4,13 +4,13 @@
 
 -----
 
-## Github Performance Overall
+<!-- ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=yulidarmaulana&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=yulidarmaulana&show_icons=true) -->
 
 ---
 
-### Github Statistic
+### Github Statistic Overall
 <p align="left">
 <a href="https://github.com/dimasmds">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yulidarmaulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
