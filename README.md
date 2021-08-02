@@ -1,11 +1,37 @@
 ### Hi there, I'm Yulidar Maulana 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/thxsinsomnia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=yulidarmaulana)
-
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/thxsinsomnia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=yulidarmaulana) -->
 -----
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/php%20-%23007ACC.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23EA4335?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/laravel-%23EA4335?&style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ubuntu-%23EA4335?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
+	
+  <br><br>
+
+  Contact Me:<br><br>
+  <a href="mailto:maulanayulidar@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/yulidarmaulana" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100011659283224" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/facebook-%231DA1F2?&style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/thxsinsomnia" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/yulidarmaulana" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+</div>
 
 <!-- ## Github Performance Overall
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=yulidarmaulana&show_icons=true) -->
 
 ---
@@ -18,9 +44,8 @@
 </a>
 </p>
 
----
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
@@ -35,9 +60,7 @@
 
 <br/>
 
-<br/>
-
----
+<br/> -->
 
 <!-- <div align="center">
 	<img src="https://media.giphy.com/media/uVRmdhTCaWhH2/giphy.gif">
