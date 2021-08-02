@@ -2,17 +2,29 @@
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/thxsinsomnia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=yulidarmaulana) -->
 -----
+
+<!-- ## Github Performance Overall
+![github stats](https://github-readme-stats.vercel.app/api?username=yulidarmaulana&show_icons=true) -->
+
+### Github Statistic Overall
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yulidarmaulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yulidarmaulana&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
 <div align="center">
-  <br>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/php%20-%23007ACC.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23EA4335?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/laravel-%23EA4335?&style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/ubuntu-%23EA4335?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
-	
   <br><br>
 
-  Contact Me:<br><br>
+  You can reach me here:<br><br>
   <a href="mailto:maulanayulidar@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -30,20 +42,6 @@
   </a>
 
 </div>
-
-<!-- ## Github Performance Overall
-![github stats](https://github-readme-stats.vercel.app/api?username=yulidarmaulana&show_icons=true) -->
-
----
-
-### Github Statistic Overall
-<p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yulidarmaulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yulidarmaulana&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 
 <!-- ### Languages and Tools:
 
@@ -64,6 +62,7 @@
 
 <!-- <div align="center">
 	<img src="https://media.giphy.com/media/uVRmdhTCaWhH2/giphy.gif">
+	<img src="https://media.giphy.com/media/8YZirtPwOyXuGnhRBq/giphy.gif">
 </div> -->
 
 <!-- **yulidarmaulana/yulidarmaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
