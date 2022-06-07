@@ -7,19 +7,25 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=yulidarmaulana&show_icons=true) -->
 
 ### Github Statistic Overall
-<p align="left">
+<details>
+<summary>Click to details statistic of repository</summary>
+<br>
+<p align="center">
 <a href="https://github.com/dimasmds">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yulidarmaulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yulidarmaulana&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+</details>
 
 ---
 
 <div align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/php%20-%23007ACC.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-777BB4?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23EA4335?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postman-009639?&style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/laravel-%23EA4335?&style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/ubuntu-%23EA4335?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <br><br>
