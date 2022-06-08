@@ -1,34 +1,34 @@
-### Hi there, I'm Yulidar Maulana 👋
+## Hi there, I'm Yulidar Maulana 👋
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/thxsinsomnia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=yulidarmaulana) -->
------
+I am Developer from 🇮🇩 <br>
+I have interest Web Development. More focused on Front-End Engineer, like the contribution of open source projects.
 
-<!-- ## Github Performance Overall
-![github stats](https://github-readme-stats.vercel.app/api?username=yulidarmaulana&show_icons=true) -->
+#### About Me
 
-### Github Statistic Overall
-<details>
-<summary>Click to details statistic of repository</summary>
+- 🔭 I’m currently working on Personal Project
+- 🌱 I’m currently learning React and Laravel
+- 👯 I’m looking to collaborate on **Open Source** projects
+- 💬 I'm mostly active within the **Facebook**, **Instagram**, and **Twitter** communities
 <br>
-<p align="center">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yulidarmaulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yulidarmaulana&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-</details>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-purple)
+![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
+![React](https://img.shields.io/badge/React-Beginner-blue)
+![Laravel](https://img.shields.io/badge/Laravel-beginner-red)
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<!--   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/php%20-%23007ACC.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-777BB4?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23EA4335?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/postman-009639?&style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/laravel-%23EA4335?&style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/ubuntu-%23EA4335?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <br><br>
+  <br><br> -->
 
   You can reach me here:<br><br>
   <a href="mailto:maulanayulidar@gmail.com" style="text-decoration: none;">
@@ -48,6 +48,18 @@
   </a>
 
 </div>
+
+<!-- ### Github Statistic Overall
+<details>
+<summary>Click to details statistic of repository</summary>
+<br>
+<p align="center">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yulidarmaulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yulidarmaulana&layout- 😄 Pronouns: he/him=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+</details> -->
 
 <!-- ### Languages and Tools:
 
