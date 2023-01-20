@@ -6,17 +6,18 @@ I have interest Web Development. More focused on Front-End Engineer, like the co
 #### About Me
 
 - 🔭 I’m currently working on Personal Project
-- 🌱 I’m currently learning React and Laravel
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **Facebook**, **Instagram**, and **Twitter** communities
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-lightblue)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-lightblue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-lightblue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-purple)
-![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
+![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-blue)
 ![React](https://img.shields.io/badge/React-Beginner-blue)
-![Laravel](https://img.shields.io/badge/Laravel-beginner-red)
+<!-- ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue) -->
 
 ---
 
@@ -31,6 +32,9 @@ I have interest Web Development. More focused on Front-End Engineer, like the co
   <br><br> -->
 
   You can reach me here:<br><br>
+  <a href="https://www.linkedin.com/in/yulidar-maulana/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/linkedin%20me%20here-%2326A5E4?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:maulanayulidar@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
