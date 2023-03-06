@@ -15,11 +15,11 @@ I have interest Web Development. More focused on Front-End Engineer, like the co
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Bootstrap"/> </a>
 <a href="https://vanilla-js.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="PHP"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Reactjs-blue?style=for-the-badge&logo=React&logoColor=white" alt="PHP"/> </a>
-<a href="https://php.com/" target="_blank"> <img src="https://img.shields.io/badge/PHP-lightgrey?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> </a>
-<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-E44C30?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
+<!-- <a href="https://php.com/" target="_blank"> <img src="https://img.shields.io/badge/PHP-lightgrey?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> </a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-E44C30?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> </a> -->
 
 <!-- ![HTML](https://img.shields.io/badge/HTML-Intermediate-lightblue)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-lightblue)
