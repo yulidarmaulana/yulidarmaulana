@@ -1,23 +1,22 @@
 ## Hi there, I'm Yulidar Maulana 👋
 
-I am Developer from 🇮🇩 <br>
-I have interest Web Development. More focused on Front-End Engineer, like the contribution of open source projects.
+Developer from Indonesia <br>
+I have a passion for web development, especially in the role of a front end engineer.
 
 #### About Me
 
-- 🔭 I’m currently working on Personal Project
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on **Open Source** projects
+- 🔭 Currently at work on a personal project
+- 🌱 to learn better - now and in the future
 - 💬 I'm mostly active within the **Facebook**, **Instagram**, and **Twitter** communities
 <br>
 
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-764AF1?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Bootstrap"/> </a>
 <a href="https://vanilla-js.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="PHP"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Reactjs-blue?style=for-the-badge&logo=React&logoColor=white" alt="PHP"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
+<!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Reactjs-blue?style=for-the-badge&logo=React&logoColor=white" alt="PHP"/> </a> -->
+<!-- <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss"/> </a> -->
 <!-- <a href="https://php.com/" target="_blank"> <img src="https://img.shields.io/badge/PHP-lightgrey?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-E44C30?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> </a> -->
 
