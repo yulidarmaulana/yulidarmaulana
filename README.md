@@ -60,6 +60,7 @@ I have a passion for web development, especially in the role of a front end engi
     <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
+[![An image of @yulidarmaulana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yulidarmaulana)](https://holopin.io/@yulidarmaulana)
 </div>
 
 <!-- ### Github Statistic Overall
