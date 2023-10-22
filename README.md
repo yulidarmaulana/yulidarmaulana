@@ -10,6 +10,7 @@ I have a passion for web development, especially in the role of a front end engi
 - 💬 I'm mostly active within the **Facebook**, **Instagram**, and **Twitter** communities
 <br>
 
+<div align="center">
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-764AF1?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a>
 <a href="https://vanilla-js.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="PHP"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
@@ -27,6 +28,7 @@ I have a passion for web development, especially in the role of a front end engi
 ![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-blue)
 ![React](https://img.shields.io/badge/React-Beginner-blue) -->
 <!-- ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue) -->
+</div>
 
 ---
 
