@@ -12,35 +12,18 @@ I have a passion for web development, especially in the role of a front end engi
 
 <div align="center">
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-764AF1?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a>
-<a href="https://vanilla-js.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="PHP"/> </a>
+<a href="https://vanilla-js.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/> </a>
+<a href="https://react.dev/" target="_blank"> <img src="https://shields.io/badge/react-blue?logo=react&style=for-the-badge" alt="React"/> </a>
+<a href="tailwindcss.com" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
-<!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Reactjs-blue?style=for-the-badge&logo=React&logoColor=white" alt="PHP"/> </a> -->
-<!-- <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss"/> </a> -->
-<!-- <a href="https://php.com/" target="_blank"> <img src="https://img.shields.io/badge/PHP-lightgrey?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> </a>
-<a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/LARAVEL-E44C30?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> </a> -->
 
-<!-- ![HTML](https://img.shields.io/badge/HTML-Intermediate-lightblue)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-lightblue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-lightblue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-purple)
-![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-blue)
-![React](https://img.shields.io/badge/React-Beginner-blue) -->
-<!-- ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue) -->
 </div>
 
 ---
 
 <div align="center">
-<!--   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/php%20-%23007ACC.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-777BB4?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23EA4335?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postman-009639?&style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/laravel-%23EA4335?&style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ubuntu-%23EA4335?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <br><br> -->
 
   You can reach me here:<br><br>
   <a href="https://www.linkedin.com/in/yulidar-maulana/" style="text-decoration: none;">
