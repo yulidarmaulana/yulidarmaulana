@@ -11,8 +11,6 @@ I have a passion for web development, especially in the role of a front end engi
 <br>
 
 <div align="center">
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-764AF1?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a>
-<a href="https://vanilla-js.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/> </a>
 <a href="https://react.dev/" target="_blank"> <img src="https://shields.io/badge/react-blue?logo=react&style=for-the-badge" alt="React"/> </a>
 <a href="tailwindcss.com" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
@@ -45,8 +43,10 @@ I have a passion for web development, especially in the role of a front end engi
     <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
+<!-- 
 [![An image of @yulidarmaulana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yulidarmaulana)](https://holopin.io/@yulidarmaulana)
 </div>
+--> 
 
 <!-- ### Github Statistic Overall
 <details>
@@ -58,39 +58,4 @@ I have a passion for web development, especially in the role of a front end engi
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yulidarmaulana&layout- 😄 Pronouns: he/him=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-</details> -->
-
-<!-- ### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]()
-
-<br/>
-
-<br/> -->
-
-<!-- <div align="center">
-	<img src="https://media.giphy.com/media/uVRmdhTCaWhH2/giphy.gif">
-	<img src="https://media.giphy.com/media/8YZirtPwOyXuGnhRBq/giphy.gif">
-</div> -->
-
-<!-- **yulidarmaulana/yulidarmaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
+</details>
