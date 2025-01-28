@@ -1,27 +1,20 @@
 ## Hi there, I'm Yulidar Maulana 👋
 
-Developer from Indonesia <br>
-I have a passion for web development, especially in the role of a front end engineer.
+Developer from Indonesia 🇮🇩 <br>
 
-#### About Me
-
-- 🔭 Currently at work on a personal project
-- 🌱 to learn better - now and in the future
-- 💬 I'm mostly active within the **Facebook**, **Instagram**, and **Twitter** communities
-<br>
-
-<div align="center">
+<div align="left">
 <a href="https://react.dev/" target="_blank"> <img src="https://shields.io/badge/react-blue?logo=react&style=for-the-badge" alt="React"/> </a>
 <a href="tailwindcss.com" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=black" alt="Vue"/> </a>
+<!-- <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a> -->
+<!-- <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> -->
+<!-- <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a> -->
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
   You can reach me here:<br><br>
   <a href="https://www.linkedin.com/in/yulidar-maulana/" style="text-decoration: none;">
@@ -39,9 +32,10 @@ I have a passion for web development, especially in the role of a front end engi
   <a href="https://twitter.com/thxsinsomnia" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yulidarmaulana" style="text-decoration: none;">
+ <!-- <a href="https://instagram.com/yulidarmaulana" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  -->
 
 <!-- 
 [![An image of @yulidarmaulana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yulidarmaulana)](https://holopin.io/@yulidarmaulana)
