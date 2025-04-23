@@ -1,11 +1,11 @@
 ## Hi there, I'm Yulidar Maulana 👋
 
-Developer from Indonesia 🇮🇩 <br>
+Developer from Indonesia 🇮🇩
 
 <div align="left">
-<a href="https://react.dev/" target="_blank"> <img src="https://shields.io/badge/react-blue?logo=react&style=for-the-badge" alt="React"/> </a>
-<a href="tailwindcss.com" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=black" alt="Vue"/> </a>
+<!-- <a href="https://react.dev/" target="_blank"> <img src="https://shields.io/badge/react-blue?logo=react&style=for-the-badge" alt="React"/> </a> -->
+<!-- <a href="tailwindcss.com" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind"/> </a> -->
+<!-- <a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=black" alt="Vue"/> </a> -->
 <!-- <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a> -->
 <!-- <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> -->
 <!-- <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a> -->
